@@ -1,5 +1,0 @@
-sklearn
-numpy
-matplotlib
-pandas
-pickle
