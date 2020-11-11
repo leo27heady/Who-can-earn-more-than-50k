@@ -1,6 +1,2 @@
-# person-makes--50k-
-Determined whether a person makes over $50K a year
+https://www.kaggle.com/uciml/adult-census-income
 
-Train size 80% of dataset
-
-Final accuracy is 75.37%
